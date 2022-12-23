@@ -29,7 +29,7 @@ import re
 import random
 
 
-import moodle_client
+
 from moodle_client import MoodleClient
 import S5Crypto
 import uptodown
