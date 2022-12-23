@@ -28,7 +28,7 @@ from yarl import URL
 import re
 import random
 
-import moodlews
+
 import moodle_client
 from moodle_client import MoodleClient
 import S5Crypto
