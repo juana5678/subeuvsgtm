@@ -12,6 +12,7 @@ import os
 from requests_toolbelt.multipart import encoder
 
 import aiohttp
+from aiohttp_ import ProxyConnector
 
 import time
 
