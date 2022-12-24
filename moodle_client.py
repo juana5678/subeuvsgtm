@@ -1,7 +1,7 @@
 from random import random
 from typing import Callable
 import aiohttp
-from python_socks import ProxyType
+
 from yarl import URL
 from bs4 import BeautifulSoup
 import asyncio
